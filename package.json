@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rchidana/NodeApp"
+    "url": "https://github.com/yougandarnaik/NodeApp-Jenkins-Docker"
   },
   "keywords": [
     "node",
     "docker",
     "dockerfile"
   ],
-  "author": "crudsinfotechng@gmail.com",
+  "author": "yougandarnaik@gmail.com",
   "license": "ISC",
   "devDependencies": { "test": ">=0.6.0" }
 }
